@@ -69,8 +69,6 @@ gcloud container clusters get-credentials east-cluster --zone=us-east1-b
 
 ```
 
-May need to do this...
-https://github.com/kubernetes/kubernetes/issues/42559
 
 
 ### Create aliases
